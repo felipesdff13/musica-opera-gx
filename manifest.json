@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Minha Música GX",
+  "version": "1.0",
+  "description": "Música de fundo personalizada no Opera GX",
+  "background_music": {
+    "tracks": [
+      {
+        "id": "main",
+        "path": "music/Dark  Season 1 - Opening Credits _ Intro (Netflix' Series) - ★ TV-Series - Opening Credits _ Intro ★ (youtube).mp3"
+      }
+    ]
+  }
+}
